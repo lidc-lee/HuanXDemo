@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">HuanXDemo</string>
+    <string name="is_contact_customer">Being contact customer service, please wait...</string>
+    <string name="system_is_regist">System is automatically registered users for you...</string>
+    <string name="attach_short_cut_message">Messages</string>
+    <string name="txt_I_was_watching">我正在看:</string>
+    <string name="is_contact_customer_failure_seconed">Contact customer service failure:</string>
+</resources>
